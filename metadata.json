@@ -1,0 +1,6 @@
+{
+  "name": "Simulados ServiceNow SENAI",
+  "description": "Plataforma de simulados de questões ServiceNow para alunos SENAI com login Google, upload de questões via Excel, ranking de acertos e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
